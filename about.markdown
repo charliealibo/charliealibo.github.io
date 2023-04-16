@@ -6,5 +6,6 @@ permalink: /about/
 
 Charlies' thoughts.
 
-[twitter](twitter.com/charliealibo)  
-[github](github.com/charliealibo)
+[twitter](https://www.twitter.com/charliealibo)
+
+[github](https://www.github.com/charliealibo)
